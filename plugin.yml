@@ -1,0 +1,5 @@
+name: CustomJoinAndLeave
+api: ["1.0.7"]
+version: 1.0.0
+main: fr.highlev.customjoinandleave.Main
+author: HighLev
